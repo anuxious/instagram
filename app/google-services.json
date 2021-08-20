@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "921600758452",
-    "firebase_url": "https://fir-demo-859b0.firebaseio.com",
-    "project_id": "fir-demo-859b0",
-    "storage_bucket": "fir-demo-859b0.appspot.com"
+    "project_number": "602166389662",
+    "project_id": "clone-ig-d8b50",
+    "storage_bucket": "clone-ig-d8b50.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:921600758452:android:058bd7392d5a1e580b3de1",
+        "mobilesdk_app_id": "1:602166389662:android:39b08665547926c14b448f",
         "android_client_info": {
-          "package_name": "com.rishav.firebasedemo"
+          "package_name": "com.anoushka.myapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "921600758452-dsa1uil11kugtefhkf7vgk2tjo5bajt1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.rishav.firebasedemo",
-            "certificate_hash": "a25154fad11165a43610770b0f8f87b2b026e443"
-          }
-        },
-        {
-          "client_id": "921600758452-ctgqo3b6rl60msi1p06aaqgr776bu6c1.apps.googleusercontent.com",
+          "client_id": "602166389662-ith6s8qm6oi23kpaan8qq5nqcsdu8tep.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBIs-vecJQFUZ33nUEUTE6gqh_nb-RCR70"
+          "current_key": "AIzaSyDcKN9HDiP_qHwcczNQBud4co3U1-pdm1Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "921600758452-ctgqo3b6rl60msi1p06aaqgr776bu6c1.apps.googleusercontent.com",
+              "client_id": "602166389662-ith6s8qm6oi23kpaan8qq5nqcsdu8tep.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
